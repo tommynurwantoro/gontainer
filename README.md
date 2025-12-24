@@ -1,5 +1,7 @@
 # Gontainer
 
+![Gontainer Logo](gontainer.png)
+
 A modern, high-performance dependency injection container library for Go. Gontainer is an enhanced version of the archived [facebookarchive/inject](https://github.com/facebookarchive/inject) library, featuring improved performance, thread-safety, and modern Go best practices.
 
 ## Features
